@@ -5,7 +5,7 @@ This repo creates the server side API for the Japanese Language - Spaced Repetit
 
 There is no need to clone or run code locally. 
 
-You can go to the live [Japanese Language SR](placeholder.com) app directly to use. 
+You can go to the live [Japanese Language SR](https://spaced-repetition-xi.vercel.app) app directly to use. 
 You can visit the [Japanese Language SR app repo](https://github.com/thinkful-ei-quail/SR-Client-Sonali-Justin) to view the front end code. 
 
 **created by:** Sonali Najera and Justin Foster
